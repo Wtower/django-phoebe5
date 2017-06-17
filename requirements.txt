@@ -1,0 +1,4 @@
+Django~=1.10.4
+djangorestframework~=3.6.1
+Pillow~=4.0.0
+#django-imagekit~=4.0.0  # only if settings.PHOEBE_CART_THUMBNAIL
